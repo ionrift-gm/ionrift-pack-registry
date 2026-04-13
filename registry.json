@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-04-13",
+  "packs": {
+    "respite-art-core": {
+      "latest": "1.0.0",
+      "format": "zip",
+      "moduleId": "respite",
+      "tier": "Acolyte",
+      "patreonUrl": "https://www.patreon.com/collection/2079931",
+      "description": "Terrain art pack for Ionrift Respite"
+    },
+    "frost-stone-data": {
+      "latest": "1.1.0",
+      "format": "json",
+      "moduleId": "respite",
+      "tier": "Initiate",
+      "patreonUrl": "https://www.patreon.com/collection/2079931",
+      "description": "Frost & Stone event and profession content pack"
+    }
+  }
+}
