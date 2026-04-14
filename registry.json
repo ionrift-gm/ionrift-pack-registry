@@ -11,7 +11,7 @@
       "description": "Terrain art pack for Ionrift Respite"
     },
     "frost-stone-data": {
-      "latest": "1.1.0",
+      "latest": "1.1.1",
       "format": "json",
       "moduleId": "respite",
       "tier": "Initiate",
