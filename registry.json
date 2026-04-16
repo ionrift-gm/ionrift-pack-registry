@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-04-14",
+  "lastUpdated": "2026-04-16",
   "packs": {
     "respite-art-core": {
       "latest": "1.0.0",
@@ -30,12 +30,13 @@
   "modules": {
     "ionrift-workshop": {
       "latest": "1.0.0",
-      "description": "Progression & loot crafting workshop",
+      "description": "Progression & loot management quartermaster",
       "earlyAccess": {
-        "version": "1.1.0-beta.1",
+        "version": "1.1.0-ea.1",
         "tier": "Acolyte",
-        "publishedAt": "2026-04-20T00:00:00Z",
-        "publicAt": "2026-05-04T00:00:00Z"
+        "publishedAt": "2026-04-16T00:00:00Z",
+        "publicAt": null,
+        "patreonUrl": "https://www.patreon.com/posts/ionrift-quartermaster-early-access"
       }
     }
   }
