@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-04-17",
+  "lastUpdated": "2026-04-21",
   "packs": {
     "respite-art-core": {
       "latest": "1.0.0",
@@ -47,9 +47,9 @@
       "latest": "1.0.0",
       "description": "Progression & loot management quartermaster",
       "earlyAccess": {
-        "version": "1.2.0-ea.2",
+        "version": "1.2.0-ea.5",
         "tier": "Acolyte",
-        "publishedAt": "2026-04-17T00:00:00Z",
+        "publishedAt": "2026-04-20T00:00:00Z",
         "publicAt": null,
         "patreonUrl": "https://www.patreon.com/collection/2106121?view=expanded"
       }
