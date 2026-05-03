@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-04-24",
+  "lastUpdated": "2026-05-03",
   "packs": {
     "respite-art-core": {
-      "latest": "1.0.0",
+      "latest": "1.1.0",
       "format": "zip",
       "moduleId": "respite",
       "tier": "Acolyte",
       "patreonUrl": "https://www.patreon.com/collection/2079931",
-      "description": "Terrain art pack for Ionrift Respite"
+      "description": "Terrain and station token art pack for Ionrift Respite"
     },
     "frost-stone-data": {
       "latest": "1.1.1",
