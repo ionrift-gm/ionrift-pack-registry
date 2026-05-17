@@ -66,5 +66,42 @@
         "patreonUrl": "https://www.patreon.com/collection/2106121?view=expanded"
       }
     }
+  },
+  "overlays": {
+    "respite-free-overlay": {
+      "latest": "0.1.0",
+      "tier": "Free",
+      "moduleId": "ionrift-respite",
+      "minModuleVersion": "2.3.0",
+      "description": "Core terrain and station art for Ionrift Respite"
+    },
+    "resonance-free-overlay": {
+      "latest": "0.1.0",
+      "tier": "Free",
+      "moduleId": "ionrift-resonance",
+      "minModuleVersion": "2.2.0",
+      "description": "Core combat, spell, and creature sound effects"
+    },
+    "respite-overlay": {
+      "latest": "0.1.0",
+      "tier": "Initiate",
+      "moduleId": "ionrift-respite",
+      "minModuleVersion": "2.3.0",
+      "description": "Premium terrain events, professions, and content packs"
+    },
+    "quartermaster-overlay": {
+      "latest": "0.1.0",
+      "tier": "Acolyte",
+      "moduleId": "ionrift-quartermaster",
+      "minModuleVersion": "1.3.2",
+      "description": "Premium loot items, gemstones, and treasure art"
+    },
+    "cursewright-overlay": {
+      "latest": "0.1.0",
+      "tier": "Acolyte",
+      "moduleId": "ionrift-cursewright",
+      "minModuleVersion": "0.1.0",
+      "description": "Premium curse recipes and cursed item data"
+    }
   }
 }
