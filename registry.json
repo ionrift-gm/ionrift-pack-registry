@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-05-18",
+  "lastUpdated": "2026-05-18T10:00:00Z",
   "packs": {
     "respite-art-core": {
       "latest": "1.1.0",
@@ -68,40 +68,40 @@
     }
   },
   "overlays": {
-    "respite-free-overlay": {
-      "latest": "0.1.0",
+    "respite-core-overlay": {
+      "latest": "0.1.1",
       "tier": "Free",
       "moduleId": "ionrift-respite",
       "minModuleVersion": "2.3.0",
       "description": "Core terrain and station art for Ionrift Respite"
     },
-    "resonance-free-overlay": {
-      "latest": "0.1.0",
+    "resonance-core-overlay": {
+      "latest": "0.1.1",
       "tier": "Free",
       "moduleId": "ionrift-resonance",
       "minModuleVersion": "2.2.0",
       "description": "Core combat, spell, and creature sound effects"
     },
-    "respite-overlay": {
-      "latest": "0.1.0",
+    "respite-supplement-overlay": {
+      "latest": "0.1.1",
       "tier": "Initiate",
       "moduleId": "ionrift-respite",
       "minModuleVersion": "2.3.0",
-      "description": "Premium terrain events, professions, and content packs"
+      "description": "Supplement terrain events, professions, and extended content for Ionrift Respite"
     },
-    "quartermaster-overlay": {
-      "latest": "0.1.0",
+    "quartermaster-supplement-overlay": {
+      "latest": "0.1.1",
       "tier": "Acolyte",
       "moduleId": "ionrift-quartermaster",
       "minModuleVersion": "1.3.2",
-      "description": "Premium loot items, gemstones, and treasure art"
+      "description": "Supplement loot items, gemstones, and treasure for Ionrift Quartermaster"
     },
-    "cursewright-overlay": {
-      "latest": "0.1.0",
+    "cursewright-supplement-overlay": {
+      "latest": "0.1.1",
       "tier": "Acolyte",
       "moduleId": "ionrift-cursewright",
       "minModuleVersion": "0.1.0",
-      "description": "Premium curse recipes and cursed item data"
+      "description": "Supplement curse recipes and cursed item data for Ionrift Cursewright"
     }
   }
 }
