@@ -69,11 +69,11 @@
   },
   "overlays": {
     "respite-core-overlay": {
-      "latest": "0.1.1",
+      "latest": "0.2.0",
       "tier": "Free",
       "moduleId": "ionrift-respite",
       "minModuleVersion": "2.3.0",
-      "description": "Core terrain and station art for Ionrift Respite"
+      "description": "Core terrain art, station tokens, and free event packs for Ionrift Respite"
     },
     "resonance-core-overlay": {
       "latest": "0.1.1",
@@ -94,7 +94,7 @@
       "tier": "Acolyte",
       "moduleId": "ionrift-quartermaster",
       "minModuleVersion": "1.3.2",
-      "description": "Supplement loot items, gemstones, and treasure for Ionrift Quartermaster"
+      "description": "Supplement loot, cursed items, and premium content for Ionrift Quartermaster"
     },
     "cursewright-supplement-overlay": {
       "latest": "0.1.1",
