@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-05-18T10:00:00Z",
+  "lastUpdated": "2026-05-18T17:45:00Z",
   "packs": {
     "respite-art-core": {
       "latest": "1.1.0",
@@ -40,7 +40,7 @@
       "moduleId": "ionrift-resonance",
       "tier": "Free",
       "patreonUrl": "https://www.patreon.com/posts/155880618",
-      "description": "Core combat, spell, and creature sound effects for D&D 5e, Pathfinder 2e, and Daggerheart from Ionrift Resonance"
+      "description": "Combat, spell, and creature sound effects for D&D 5e, Pathfinder 2e, and Daggerheart"
     }
   },
   "modules": {
@@ -73,35 +73,14 @@
       "tier": "Free",
       "moduleId": "ionrift-respite",
       "minModuleVersion": "2.3.0",
-      "description": "Core terrain art, station tokens, and free event packs for Ionrift Respite"
+      "description": "Terrain art, station tokens, and base event content for Ionrift Respite"
     },
-    "resonance-core-overlay": {
-      "latest": "0.1.1",
+    "quartermaster-core-overlay": {
+      "latest": "0.1.0",
       "tier": "Free",
-      "moduleId": "ionrift-resonance",
-      "minModuleVersion": "2.2.0",
-      "description": "Core combat, spell, and creature sound effects"
-    },
-    "respite-supplement-overlay": {
-      "latest": "0.1.1",
-      "tier": "Initiate",
-      "moduleId": "ionrift-respite",
-      "minModuleVersion": "2.3.0",
-      "description": "Supplement terrain events, professions, and extended content for Ionrift Respite"
-    },
-    "quartermaster-supplement-overlay": {
-      "latest": "0.1.1",
-      "tier": "Acolyte",
       "moduleId": "ionrift-quartermaster",
       "minModuleVersion": "1.3.2",
-      "description": "Supplement loot, cursed items, and premium content for Ionrift Quartermaster"
-    },
-    "cursewright-supplement-overlay": {
-      "latest": "0.1.1",
-      "tier": "Acolyte",
-      "moduleId": "ionrift-cursewright",
-      "minModuleVersion": "0.1.0",
-      "description": "Supplement curse recipes and cursed item data for Ionrift Cursewright"
+      "description": "Gemstone and treasure items for Ionrift Quartermaster cache generation"
     }
   }
 }
