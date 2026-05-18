@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-05-18T17:45:00Z",
+  "lastUpdated": "2026-05-18T19:40:00Z",
   "packs": {
     "respite-art-core": {
       "latest": "1.1.0",
@@ -72,7 +72,7 @@
       "latest": "0.2.0",
       "tier": "Free",
       "moduleId": "ionrift-respite",
-      "minModuleVersion": "2.3.0",
+      "minModuleVersion": "2.2.4",
       "description": "Terrain art, station tokens, and base event content for Ionrift Respite"
     },
     "quartermaster-core-overlay": {
