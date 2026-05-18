@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-05-18T20:15:00Z",
+  "lastUpdated": "2026-05-18T21:30:00Z",
   "packs": {
     "respite-art-core": {
       "latest": "1.1.0",
@@ -69,11 +69,22 @@
   },
   "overlays": {
     "respite-core-overlay": {
-      "latest": "0.2.0",
+      "latest": "0.2.1",
       "tier": "Free",
+      "sublayer": "free",
       "moduleId": "ionrift-respite",
       "minModuleVersion": "2.2.4",
-      "description": "Terrain art, station tokens, and base event content for Ionrift Respite"
+      "packLabel": "Core pack",
+      "description": "Terrain art, station tokens, and the Wanderer's camp events for Ionrift Respite"
+    },
+    "respite-frost-stone-overlay": {
+      "latest": "0.1.0",
+      "tier": "Free",
+      "sublayer": "frost-stone",
+      "moduleId": "ionrift-respite",
+      "minModuleVersion": "2.2.4",
+      "packLabel": "Frost & Stone pack",
+      "description": "Mountain and arctic camp events and disasters for Ionrift Respite"
     },
     "resonance-core-overlay": {
       "latest": "0.1.0",
