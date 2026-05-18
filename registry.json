@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-05-18T19:40:00Z",
+  "lastUpdated": "2026-05-18T20:15:00Z",
   "packs": {
     "respite-art-core": {
       "latest": "1.1.0",
@@ -74,6 +74,13 @@
       "moduleId": "ionrift-respite",
       "minModuleVersion": "2.2.4",
       "description": "Terrain art, station tokens, and base event content for Ionrift Respite"
+    },
+    "resonance-core-overlay": {
+      "latest": "0.1.0",
+      "tier": "Free",
+      "moduleId": "ionrift-resonance",
+      "minModuleVersion": "2.7.7",
+      "description": "Combat, spell, and creature sound effects for D&D 5e, Pathfinder 2e, and Daggerheart"
     },
     "quartermaster-core-overlay": {
       "latest": "0.1.0",
