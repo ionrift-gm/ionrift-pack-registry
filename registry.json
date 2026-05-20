@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-05-20T13:00:00Z",
+  "lastUpdated": "2026-05-20T13:30:00Z",
   "packs": {
     "respite-art-core": {
       "latest": "1.1.0",
@@ -108,7 +108,7 @@
       "moduleId": "ionrift-quartermaster",
       "minModuleVersion": "1.3.5",
       "packLabel": "Core pack",
-      "description": "Gemstone and treasure items with curated Ionrift artwork for Quartermaster cache generation"
+      "description": "Gemstone and treasure items for Quartermaster cache generation"
     }
   }
 }
