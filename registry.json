@@ -71,7 +71,6 @@
     "respite-core-overlay": {
       "latest": "0.2.2",
       "tier": "Free",
-      "sublayer": "free",
       "moduleId": "ionrift-respite",
       "minModuleVersion": "2.2.4",
       "packLabel": "Core pack",
@@ -105,6 +104,7 @@
     "quartermaster-core-overlay": {
       "latest": "0.2.0",
       "tier": "Free",
+      "sublayer": "free",
       "moduleId": "ionrift-quartermaster",
       "minModuleVersion": "1.3.5",
       "packLabel": "Core pack",
