@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-05-20",
+  "lastUpdated": "2026-05-23",
   "packs": {
     "respite-art-core": {
       "latest": "1.1.0",
@@ -45,13 +45,13 @@
   },
   "modules": {
     "ionrift-quartermaster": {
-      "latest": "1.0.0",
-      "description": "Progression & loot management quartermaster",
+      "latest": "1.3.7",
+      "description": "The GM's loot engine. Terrain-aware cache generation, scroll management, and campaign item planning.",
       "earlyAccess": {
         "version": "1.3.7",
         "tier": "Acolyte",
         "publishedAt": "2026-05-20T00:00:00Z",
-        "publicAt": null,
+        "publicAt": "2026-05-23T00:00:00Z",
         "patreonUrl": "https://www.patreon.com/collection/2106121?view=expanded"
       }
     },
@@ -86,13 +86,13 @@
       "description": "33 camp events across core terrains for Ionrift Respite"
     },
     "respite-frost-stone-overlay": {
-      "latest": "0.1.0",
+      "latest": "0.1.1",
       "tier": "Free",
       "sublayer": "frost-stone",
       "moduleId": "ionrift-respite",
       "minModuleVersion": "2.2.4",
       "packLabel": "Frost & Stone pack",
-      "description": "Mountain and arctic camp events and disasters for Ionrift Respite"
+      "description": "Mountain and arctic terrain art, camp events, and disasters for Ionrift Respite"
     },
     "resonance-core-overlay": {
       "latest": "0.1.0",
