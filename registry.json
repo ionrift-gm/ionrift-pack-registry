@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-05-24T20:43Z",
+  "lastUpdated": "2026-05-24T20:57Z",
   "packs": {
     "respite-art-core": {
       "latest": "1.1.0",
@@ -95,7 +95,7 @@
       "description": "Combat, spell, and creature sound effects for D&D 5e, Pathfinder 2e, and Daggerheart"
     },
     "quartermaster-core-overlay": {
-      "latest": "0.2.1",
+      "latest": "0.2.2",
       "tier": "Free",
       "sublayer": "core",
       "moduleId": "ionrift-quartermaster",
