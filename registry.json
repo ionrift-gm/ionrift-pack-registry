@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-05-23",
+  "lastUpdated": "2026-05-24",
   "packs": {
     "respite-art-core": {
       "latest": "1.1.0",
@@ -26,14 +26,7 @@
       "patreonUrl": "https://www.patreon.com/collection/2079931",
       "description": "Wanderer's Pack — 33 camp events across core terrains"
     },
-    "qm-gems-treasure": {
-      "latest": "1.0.0",
-      "format": "zip",
-      "moduleId": "ionrift-quartermaster",
-      "tier": "Initiate",
-      "patreonUrl": "https://www.patreon.com/collection/2106121",
-      "description": "39 gemstones and 40 treasure items with original Ionrift icons"
-    },
+    "_qm-gems-treasure_PULLED": "REMOVED 2026-05-23: Legacy bundled gems+treasure pack. Gems move to subscriber overlay, treasure stays in core. Will be replaced by separate quartermaster-core-overlay and quartermaster-subscriber-overlay when content is finalised.",
     "ionrift-soundpack-core": {
       "latest": "1.1.0",
       "format": "zip",
@@ -104,12 +97,22 @@
     "quartermaster-core-overlay": {
       "latest": "0.2.0",
       "tier": "Free",
-      "sublayer": "free",
+      "sublayer": "core",
       "moduleId": "ionrift-quartermaster",
       "minModuleVersion": "1.3.5",
       "packLabel": "Core pack",
       "preview": true,
-      "description": "Gemstone and treasure items for Quartermaster cache generation"
+      "description": "Treasure, trinkets, and mastercraft weapons for Quartermaster cache generation"
+    },
+    "respite-bone-dust-overlay": {
+      "latest": "0.1.0",
+      "tier": "Initiate",
+      "sublayer": "bone-dust",
+      "moduleId": "ionrift-respite",
+      "minModuleVersion": "2.2.4",
+      "packLabel": "Bone & Dust pack",
+      "preview": true,
+      "description": "Ruins and catacombs terrain art for Ionrift Respite"
     }
   }
 }
