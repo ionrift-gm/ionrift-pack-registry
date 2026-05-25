@@ -1,118 +1,118 @@
 {
-  "schemaVersion": 2,
-  "lastUpdated": "2026-05-25T00:00:00Z",
-  "packs": {
-    "respite-art-core": {
-      "latest": "1.1.0",
-      "format": "zip",
-      "moduleId": "respite",
-      "tier": "Free",
-      "patreonUrl": "https://www.patreon.com/posts/154985310",
-      "description": "Terrain and station token art pack for Ionrift Respite"
-    },
-    "frost-stone-data": {
-      "latest": "1.1.1",
-      "format": "json",
-      "moduleId": "respite",
-      "tier": "Initiate",
-      "patreonUrl": "https://www.patreon.com/collection/2079931",
-      "description": "Frost & Stone event and profession content pack"
-    },
-    "wanderers-data": {
-      "latest": "1.0.0",
-      "format": "json",
-      "moduleId": "respite",
-      "tier": "Free",
-      "patreonUrl": "https://www.patreon.com/collection/2079931",
-      "description": "Wanderer's Pack — 33 camp events across core terrains"
-    },
-    "_qm-gems-treasure_PULLED": "REMOVED 2026-05-23: Legacy bundled gems+treasure pack. Gems move to subscriber overlay, treasure stays in core. Will be replaced by separate quartermaster-core-overlay and quartermaster-subscriber-overlay when content is finalised.",
-    "ionrift-soundpack-core": {
-      "latest": "1.1.0",
-      "format": "zip",
-      "moduleId": "ionrift-resonance",
-      "tier": "Free",
-      "patreonUrl": "https://www.patreon.com/posts/155880618",
-      "description": "Combat, spell, and creature sound effects for D&D 5e, Pathfinder 2e, and Daggerheart"
-    }
-  },
-  "modules": {
-    "ionrift-quartermaster": {
-      "latest": "1.3.7",
-      "description": "The GM's loot engine. Terrain-aware cache generation, scroll management, and campaign item planning.",
-      "earlyAccess": {
-        "version": "1.3.7",
-        "tier": "Acolyte",
-        "publishedAt": "2026-05-20T00:00:00Z",
-        "publicAt": "2026-05-23T00:00:00Z",
-        "patreonUrl": "https://www.patreon.com/collection/2106121?view=expanded"
-      }
-    },
-    "ionrift-cursewright": {
-      "latest": null,
-      "description": "Cursed item engine for Ionrift Quartermaster",
-      "earlyAccess": {
-        "version": "0.1.0-ea.1",
-        "tier": "Acolyte",
-        "publishedAt": "2026-05-17T00:00:00Z",
-        "publicAt": null,
-        "patreonUrl": "https://www.patreon.com/collection/2106121?view=expanded"
-      }
-    }
-  },
-  "overlays": {
-    "respite-core-overlay": {
-      "latest": "0.2.3",
-      "tier": "Free",
-      "moduleId": "ionrift-respite",
-      "minModuleVersion": "2.2.4",
-      "packLabel": "Core pack",
-      "description": "Terrain art, station tokens, and camp phase images for Ionrift Respite"
-    },
-    "respite-wanderers-overlay": {
-      "latest": "0.1.0",
-      "tier": "Free",
-      "sublayer": "wanderers",
-      "moduleId": "ionrift-respite",
-      "minModuleVersion": "2.2.4",
-      "packLabel": "Wanderer's pack",
-      "description": "33 camp events across core terrains for Ionrift Respite"
-    },
-    "respite-frost-stone-overlay": {
-      "latest": "0.1.1",
-      "tier": "Free",
-      "sublayer": "frost-stone",
-      "moduleId": "ionrift-respite",
-      "minModuleVersion": "2.2.4",
-      "packLabel": "Frost & Stone pack",
-      "description": "Mountain and arctic terrain art, camp events, and disasters for Ionrift Respite"
-    },
-    "resonance-core-overlay": {
-      "latest": "0.1.0",
-      "tier": "Free",
-      "moduleId": "ionrift-resonance",
-      "minModuleVersion": "2.7.7",
-      "description": "Combat, spell, and creature sound effects for D&D 5e, Pathfinder 2e, and Daggerheart"
-    },
-    "quartermaster-core-overlay": {
-      "latest": "0.2.3",
-      "tier": "Free",
-      "sublayer": "core",
-      "moduleId": "ionrift-quartermaster",
-      "minModuleVersion": "1.3.5",
-      "packLabel": "Core pack",
-      "preview": true,
-      "description": "Treasure and trinkets for Quartermaster cache generation"
-    },
-    "respite-bone-dust-overlay": {
-      "latest": "0.1.0",
-      "tier": "Initiate",
-      "sublayer": "bone-dust",
-      "moduleId": "ionrift-respite",
-      "minModuleVersion": "2.2.4",
-      "packLabel": "Bone & Dust pack",
-      "preview": true,
-      "description": "Ruins and catacombs terrain art for Ionrift Respite"
-    }
-  }
+    "schemaVersion":  2,
+    "lastUpdated":  "2026-05-25",
+    "packs":  {
+                  "respite-art-core":  {
+                                           "latest":  "1.1.0",
+                                           "format":  "zip",
+                                           "moduleId":  "respite",
+                                           "tier":  "Free",
+                                           "patreonUrl":  "https://www.patreon.com/posts/154985310",
+                                           "description":  "Terrain and station token art pack for Ionrift Respite"
+                                       },
+                  "frost-stone-data":  {
+                                           "latest":  "1.1.1",
+                                           "format":  "json",
+                                           "moduleId":  "respite",
+                                           "tier":  "Initiate",
+                                           "patreonUrl":  "https://www.patreon.com/collection/2079931",
+                                           "description":  "Frost \u0026 Stone event and profession content pack"
+                                       },
+                  "wanderers-data":  {
+                                         "latest":  "1.0.0",
+                                         "format":  "json",
+                                         "moduleId":  "respite",
+                                         "tier":  "Free",
+                                         "patreonUrl":  "https://www.patreon.com/collection/2079931",
+                                         "description":  "Wanderer\u0027s Pack — 33 camp events across core terrains"
+                                     },
+                  "_qm-gems-treasure_PULLED":  "REMOVED 2026-05-23: Legacy bundled gems+treasure pack. Gems move to subscriber overlay, treasure stays in core. Will be replaced by separate quartermaster-core-overlay and quartermaster-subscriber-overlay when content is finalised.",
+                  "ionrift-soundpack-core":  {
+                                                 "latest":  "1.1.0",
+                                                 "format":  "zip",
+                                                 "moduleId":  "ionrift-resonance",
+                                                 "tier":  "Free",
+                                                 "patreonUrl":  "https://www.patreon.com/posts/155880618",
+                                                 "description":  "Combat, spell, and creature sound effects for D\u0026D 5e, Pathfinder 2e, and Daggerheart"
+                                             }
+              },
+    "modules":  {
+                    "ionrift-quartermaster":  {
+                                                  "latest":  "1.3.7",
+                                                  "description":  "The GM\u0027s loot engine. Terrain-aware cache generation, scroll management, and campaign item planning.",
+                                                  "earlyAccess":  {
+                                                                      "version":  "1.3.7",
+                                                                      "tier":  "Acolyte",
+                                                                      "publishedAt":  "2026-05-20T00:00:00Z",
+                                                                      "publicAt":  "2026-05-23T00:00:00Z",
+                                                                      "patreonUrl":  "https://www.patreon.com/collection/2106121?view=expanded"
+                                                                  }
+                                              },
+                    "ionrift-cursewright":  {
+                                                "latest":  null,
+                                                "description":  "Cursed item engine for Ionrift Quartermaster",
+                                                "earlyAccess":  {
+                                                                    "version":  "0.1.0-ea.1",
+                                                                    "tier":  "Acolyte",
+                                                                    "publishedAt":  "2026-05-17T00:00:00Z",
+                                                                    "publicAt":  null,
+                                                                    "patreonUrl":  "https://www.patreon.com/collection/2106121?view=expanded"
+                                                                }
+                                            }
+                },
+    "overlays":  {
+                     "respite-core-overlay":  {
+                                                  "latest":  "0.2.3",
+                                                  "tier":  "Free",
+                                                  "moduleId":  "ionrift-respite",
+                                                  "minModuleVersion":  "2.2.4",
+                                                  "packLabel":  "Core pack",
+                                                  "description":  "Terrain art, station tokens, and camp phase images for Ionrift Respite"
+                                              },
+                     "respite-wanderers-overlay":  {
+                                                       "latest":  "0.1.0",
+                                                       "tier":  "Free",
+                                                       "sublayer":  "wanderers",
+                                                       "moduleId":  "ionrift-respite",
+                                                       "minModuleVersion":  "2.2.4",
+                                                       "packLabel":  "Wanderer\u0027s pack",
+                                                       "description":  "33 camp events across core terrains for Ionrift Respite"
+                                                   },
+                     "respite-frost-stone-overlay":  {
+                                                         "latest":  "0.1.1",
+                                                         "tier":  "Free",
+                                                         "sublayer":  "frost-stone",
+                                                         "moduleId":  "ionrift-respite",
+                                                         "minModuleVersion":  "2.2.4",
+                                                         "packLabel":  "Frost \u0026 Stone pack",
+                                                         "description":  "Mountain and arctic terrain art, camp events, and disasters for Ionrift Respite"
+                                                     },
+                     "resonance-core-overlay":  {
+                                                    "latest":  "0.1.0",
+                                                    "tier":  "Free",
+                                                    "moduleId":  "ionrift-resonance",
+                                                    "minModuleVersion":  "2.7.7",
+                                                    "description":  "Combat, spell, and creature sound effects for D\u0026D 5e, Pathfinder 2e, and Daggerheart"
+                                                },
+                     "quartermaster-core-overlay":  {
+                                                        "latest":  "0.2.4",
+                                                        "tier":  "Free",
+                                                        "sublayer":  "core",
+                                                        "moduleId":  "ionrift-quartermaster",
+                                                        "minModuleVersion":  "1.3.5",
+                                                        "packLabel":  "Core pack",
+                                                        "preview":  true,
+                                                        "description":  "Treasure and trinkets for Quartermaster cache generation"
+                                                    },
+                     "respite-bone-dust-overlay":  {
+                                                       "latest":  "0.1.0",
+                                                       "tier":  "Initiate",
+                                                       "sublayer":  "bone-dust",
+                                                       "moduleId":  "ionrift-respite",
+                                                       "minModuleVersion":  "2.2.4",
+                                                       "packLabel":  "Bone \u0026 Dust pack",
+                                                       "preview":  true,
+                                                       "description":  "Ruins and catacombs terrain art for Ionrift Respite"
+                                                   }
+                 }
 }
