@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-05-24T21:45Z",
+  "lastUpdated": "2026-05-25T00:00:00Z",
   "packs": {
     "respite-art-core": {
       "latest": "1.1.0",
@@ -62,7 +62,7 @@
   },
   "overlays": {
     "respite-core-overlay": {
-      "latest": "0.2.2",
+      "latest": "0.2.3",
       "tier": "Free",
       "moduleId": "ionrift-respite",
       "minModuleVersion": "2.2.4",
