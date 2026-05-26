@@ -79,13 +79,13 @@
                                                        "description":  "33 camp events across core terrains for Ionrift Respite"
                                                    },
                      "respite-frost-stone-overlay":  {
-                                                         "latest":  "0.1.1",
+                                                         "latest":  "0.1.2",
                                                          "tier":  "Free",
                                                          "sublayer":  "frost-stone",
                                                          "moduleId":  "ionrift-respite",
                                                          "minModuleVersion":  "2.2.4",
                                                          "packLabel":  "Frost \u0026 Stone pack",
-                                                         "description":  "Mountain and arctic terrain art, camp events, and disasters for Ionrift Respite"
+                                                         "description":  "Mountain and arctic terrains, terrain art, camp events, and disasters for Ionrift Respite"
                                                      },
                      "resonance-core-overlay":  {
                                                     "latest":  "0.1.0",
@@ -126,7 +126,7 @@
                                                         "description":  "Catacombs and ruins containers, gems, treasure, and trinkets for Quartermaster cache generation"
                                                     },
                      "respite-bone-dust-overlay":  {
-                                                        "latest":  "0.1.0",
+                                                        "latest":  "0.1.1",
                                                         "tier":  "Initiate",
                                                         "widensAt":  null,
                                                         "sublayer":  "bone-dust",
@@ -134,7 +134,7 @@
                                                         "minModuleVersion":  "2.2.4",
                                                         "packLabel":  "Bone \u0026 Dust pack",
                                                         "preview":  true,
-                                                        "description":  "Ruins and catacombs terrain art for Ionrift Respite"
+                                                        "description":  "Ruins and catacombs terrains, terrain art, and events for Ionrift Respite"
                                                     }
                  }
 }
