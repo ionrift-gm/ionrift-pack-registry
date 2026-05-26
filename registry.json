@@ -1,6 +1,6 @@
 {
     "schemaVersion":  3,
-    "lastUpdated":  "2026-05-26T16:45Z",
+    "lastUpdated":  "2026-05-26T20:44Z",
     "packs":  {
                   "respite-art-core":  {
                                            "latest":  "1.1.0",
@@ -132,9 +132,9 @@
                                                         "sublayer":  "bone-dust",
                                                         "moduleId":  "ionrift-respite",
                                                         "minModuleVersion":  "2.2.4",
-                                                        "packLabel":  "Bone \u0026 Dust pack",
-                                                        "preview":  true,
-                                                        "description":  "Ruins and catacombs terrains, terrain art, and events for Ionrift Respite"
+                                                        "packLabel":  "Dust \u0026 Bone pack",
+                                                        "preview":  false,
+                                                        "description":  "Catacombs and ruins terrains, terrain art, and 12 camp events for Ionrift Respite"
                                                     }
                  }
 }
