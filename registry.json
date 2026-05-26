@@ -115,12 +115,12 @@
                                                         "description":  "Arctic and mountain containers for Quartermaster cache generation"
                                                     },
                      "quartermaster-bone-dust-overlay":  {
-                                                        "latest":  "0.1.1",
+                                                        "latest":  "0.1.2",
                                                         "tier":  "Initiate",
                                                         "widensAt":  null,
                                                         "sublayer":  "bone-dust",
                                                         "moduleId":  "ionrift-quartermaster",
-                                                        "minModuleVersion":  "1.3.10",
+                                                        "minModuleVersion":  "1.3.11",
                                                         "packLabel":  "Bone \u0026 Dust pack",
                                                         "preview":  true,
                                                         "description":  "Catacombs and ruins containers, gems, treasure, and trinkets for Quartermaster cache generation"
