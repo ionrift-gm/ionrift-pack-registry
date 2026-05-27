@@ -1,6 +1,6 @@
 {
     "schemaVersion":  3,
-    "lastUpdated":  "2026-05-26T20:44Z",
+    "lastUpdated":  "2026-05-27T14:00Z",
     "packs":  {
                   "respite-art-core":  {
                                            "latest":  "1.1.0",
@@ -95,7 +95,7 @@
                                                     "description":  "Combat, spell, and creature sound effects for D\u0026D 5e, Pathfinder 2e, and Daggerheart"
                                                 },
                      "quartermaster-core-overlay":  {
-                                                        "latest":  "0.2.5",
+                                                        "latest":  "0.2.6",
                                                         "tier":  "Free",
                                                         "sublayer":  "core",
                                                         "moduleId":  "ionrift-quartermaster",
@@ -115,7 +115,7 @@
                                                         "description":  "Arctic and mountain containers for Quartermaster cache generation"
                                                     },
                      "quartermaster-bone-dust-overlay":  {
-                                                        "latest":  "0.1.2",
+                                                        "latest":  "0.1.3",
                                                         "tier":  "Initiate",
                                                         "widensAt":  "2026-06-09",
                                                         "sublayer":  "bone-dust",
