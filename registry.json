@@ -105,7 +105,7 @@
                                                         "moduleId":  "ionrift-quartermaster",
                                                         "minModuleVersion":  "1.3.10",
                                                         "packLabel":  "Core pack",
-                                                        "preview":  true,
+                                                        "preview":  false,
                                                         "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/quartermaster-core-overlay/latest",
                                                         "description":  "Treasure and trinkets for Quartermaster cache generation"
                                                     },
