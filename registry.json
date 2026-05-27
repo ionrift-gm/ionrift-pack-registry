@@ -1,6 +1,6 @@
 {
     "schemaVersion":  3,
-    "lastUpdated":  "2026-05-27T14:00Z",
+    "lastUpdated":  "2026-05-27T15:00Z",
     "packs":  {
                   "respite-art-core":  {
                                            "latest":  "1.1.0",
@@ -67,6 +67,7 @@
                                                   "moduleId":  "ionrift-respite",
                                                   "minModuleVersion":  "2.2.4",
                                                   "packLabel":  "Core pack",
+                                                  "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/respite-core-overlay/latest",
                                                   "description":  "Terrain art, station tokens, and camp phase images for Ionrift Respite"
                                               },
                      "respite-wanderers-overlay":  {
@@ -76,6 +77,7 @@
                                                        "moduleId":  "ionrift-respite",
                                                        "minModuleVersion":  "2.2.4",
                                                        "packLabel":  "Wanderer\u0027s pack",
+                                                       "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/respite-wanderers-overlay/latest",
                                                        "description":  "33 camp events across core terrains for Ionrift Respite"
                                                    },
                      "respite-frost-stone-overlay":  {
@@ -85,6 +87,7 @@
                                                          "moduleId":  "ionrift-respite",
                                                          "minModuleVersion":  "2.2.4",
                                                          "packLabel":  "Frost \u0026 Stone pack",
+                                                         "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/respite-frost-stone-overlay/latest",
                                                          "description":  "Mountain and arctic terrains, terrain art, camp events, and disasters for Ionrift Respite"
                                                      },
                      "resonance-core-overlay":  {
@@ -92,6 +95,7 @@
                                                     "tier":  "Free",
                                                     "moduleId":  "ionrift-resonance",
                                                     "minModuleVersion":  "2.7.7",
+                                                    "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/resonance-core-overlay/latest",
                                                     "description":  "Combat, spell, and creature sound effects for D\u0026D 5e, Pathfinder 2e, and Daggerheart"
                                                 },
                      "quartermaster-core-overlay":  {
