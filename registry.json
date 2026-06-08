@@ -133,6 +133,17 @@
                                                         "packLabel":  "Dust \u0026 Bone pack",
                                                         "preview":  false,
                                                         "description":  "Catacombs and ruins terrains, terrain art, and 12 camp events for Ionrift Respite"
-                                                    }
+                                                    },
+                     "cursewright-core-overlay":  {
+                                                      "latest":  "0.1.0",
+                                                      "tier":  "Acolyte",
+                                                      "sublayer":  "core",
+                                                      "contentType":  "plugin",
+                                                      "moduleId":  "ionrift-cursewright",
+                                                      "minModuleVersion":  "0.2.0",
+                                                      "packLabel":  "Core archetypes",
+                                                      "preview":  true,
+                                                      "description":  "Curse archetype plugins for Ionrift Cursewright — weight shift, parasitic drain, and more"
+                                                  }
                  }
 }
