@@ -125,7 +125,7 @@
                                                     },
                      "respite-bone-dust-overlay":  {
                                                         "latest":  "1.0.0",
-                                                        "tier":  "Initiate",
+                                                        "tier":  "Free",
                                                         "widensAt":  "2026-06-09",
                                                         "sublayer":  "bone-dust",
                                                         "moduleId":  "ionrift-respite",
