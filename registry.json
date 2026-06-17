@@ -1,6 +1,6 @@
 {
     "schemaVersion":  3,
-    "lastUpdated":  "2026-06-16",
+    "lastUpdated":  "2026-06-17",
     "packs":  {
                   "respite-art-core":  {
                                            "latest":  "1.1.0",
@@ -26,6 +26,15 @@
                                          "patreonUrl":  "https://www.patreon.com/collection/2079931",
                                          "description":  "Wanderer\u0027s Pack — 33 camp events across core terrains"
                                      },
+                  "respite-authoring-kit":  {
+                                                "latest":  "1.0.1",
+                                                "format":  "zip",
+                                                "moduleId":  "respite",
+                                                "tier":  "Free",
+                                                "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/respite-authoring-kit/latest",
+                                                "patreonUrl":  "https://www.patreon.com/posts/respite-kit-your-154855569",
+                                                "description":  "Schema reference, authoring guide, and example JSON packs for custom Respite rest events"
+                                            },
                   "_qm-gems-treasure_PULLED":  "REMOVED 2026-05-23: Legacy bundled gems+treasure pack. Gems move to subscriber overlay, treasure stays in core. Will be replaced by separate quartermaster-core-overlay and quartermaster-subscriber-overlay when content is finalised.",
                   "ionrift-soundpack-core":  {
                                                  "latest":  "1.1.0",
