@@ -1,6 +1,6 @@
 {
     "schemaVersion":  3,
-    "lastUpdated":  "2026-06-17",
+    "lastUpdated":  "2026-06-21",
     "packs":  {
                   "respite-art-core":  {
                                            "latest":  "1.1.0",
@@ -51,15 +51,13 @@
                                                   "description":  "The GM\u0027s loot engine. Terrain-aware cache generation, scroll management, and campaign item planning."
                                               },
                     "ionrift-cursewright":  {
-                                                "latest":  null,
-                                                "description":  "Cursed item engine for Ionrift Quartermaster",
-                                                "earlyAccess":  {
-                                                                    "version":  "1.1.1",
-                                                                    "tier":  "Acolyte",
-                                                                    "publishedAt":  "2026-06-16T00:00:00Z",
-                                                                    "publicAt":  null,
-                                                                    "patreonUrl":  "https://www.patreon.com/collection/2106121?view=expanded"
-                                                                }
+                                                "distribution":  "premium",
+                                                "latest":  "1.1.2",
+                                                "tier":  "Acolyte",
+                                                "releaseStatus":  "ga",
+                                                "releasedAt":  "2026-06-21T00:00:00Z",
+                                                "description":  "The Ionrift curse engine.",
+                                                "patreonUrl":  "https://www.patreon.com/collection/2221410?view=expanded"
                                             }
                 },
     "overlays":  {
