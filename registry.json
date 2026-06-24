@@ -90,6 +90,26 @@
                                                          "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/respite-frost-stone-overlay/latest",
                                                          "description":  "Mountain and arctic terrains, terrain art, camp events, and disasters for Ionrift Respite"
                                                      },
+                     "respite-cooking-overlay":  {
+                                                       "latest":  "1.0.8",
+                                                       "tier":  "Free",
+                                                       "sublayer":  "cooking",
+                                                       "moduleId":  "ionrift-respite",
+                                                       "minModuleVersion":  "3.3.3",
+                                                       "packLabel":  "Core Cooking Pack",
+                                                       "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/respite-cooking-overlay/latest",
+                                                       "description":  "Cooking profession plugin, terrain forage, hunt yields, and 17 campfire recipes. Does not include tailoring, brewing, or other craft professions."
+                                                   },
+                     "respite-craft-professions-overlay":  {
+                                                                "latest":  "0.1.0",
+                                                                "tier":  "Initiate",
+                                                                "sublayer":  "craft-professions",
+                                                                "moduleId":  "ionrift-respite",
+                                                                "minModuleVersion":  "3.3.3",
+                                                                "packLabel":  "Craft Professions Pack",
+                                                                "preview":  true,
+                                                                "description":  "Tailoring, brewing, and other non-cooking craft profession plugins and recipes. Requires Core Cooking Pack for shared reagents."
+                                                            },
                      "resonance-core-overlay":  {
                                                     "latest":  "0.1.0",
                                                     "tier":  "Free",
