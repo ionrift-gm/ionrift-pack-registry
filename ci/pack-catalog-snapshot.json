@@ -1,0 +1,21 @@
+{
+  "respite-art-core": ["1.1.0"],
+  "frost-stone-data": ["1.1.1"],
+  "wanderers-data": ["1.0.0"],
+  "respite-authoring-kit": ["1.0.1"],
+  "e2e-test-pack": ["1.0.0"],
+  "ionrift-cursewright": ["1.1.5"],
+  "ionrift-soundpack-core": ["1.1.0"],
+  "respite-core-overlay": ["0.2.3"],
+  "respite-wanderers-overlay": ["1.0.0"],
+  "respite-frost-stone-overlay": ["1.0.0"],
+  "respite-cooking-overlay": ["1.0.1", "1.0.8"],
+  "respite-tailoring-overlay": ["0.1.0"],
+  "respite-craft-professions-overlay": ["0.1.0"],
+  "resonance-core-overlay": ["0.1.0"],
+  "quartermaster-core-overlay": ["0.2.8"],
+  "quartermaster-bone-dust-overlay": ["0.1.3"],
+  "quartermaster-frost-stone-overlay": ["0.1.0"],
+  "respite-bone-dust-overlay": ["1.0.0"],
+  "cursewright-core-overlay": ["0.1.0"]
+}
