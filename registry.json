@@ -1,6 +1,6 @@
 {
     "schemaVersion":  3,
-    "lastUpdated":  "2026-06-29",
+    "lastUpdated":  "2026-06-28",
     "packs":  {
                   "respite-art-core":  {
                                            "latest":  "1.1.0",
@@ -94,7 +94,7 @@
                                                        "moduleId":  "ionrift-respite",
                                                        "minModuleVersion":  "3.3.4",
                                                        "packLabel":  "Core Cooking Pack",
-                                                       "preview":  true,
+                                                       "preview":  false,
                                                        "description":  "Cooking profession plugin, terrain forage, hunt yields, and 17 campfire recipes. Does not include tailoring, brewing, or other craft professions."
                                                    },
                      "respite-craft-professions-overlay":  {
