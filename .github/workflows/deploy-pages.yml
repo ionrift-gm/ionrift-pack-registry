@@ -21,23 +21,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Checkout ionrift-cloud (PACK_CATALOG source)
-        uses: actions/checkout@v4
-        with:
-          repository: ionrift-gm/ionrift-cloud
-          path: ionrift-cloud
-          token: ${{ secrets.CLOUD_REPO_TOKEN }}
-
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      # Structural check only (--skip-live): does every registry `latest`
-      # version have a matching key in PACK_CATALOG?
-      # This gate blocks publishing a registry that advertises a version
-      # the middleware doesn't know about (the Cursewright v1.1.2 failure mode).
-      - name: Run release-readiness gate (structural)
-        run: node ionrift-cloud/scripts/release-readiness.mjs --skip-live --skip-gcs --registry-path ./registry.json
+      # Structural check: registry `latest` values must exist in
+      # ci/pack-catalog-snapshot.json (mirrors prod PACK_CATALOG keys).
+      # Update the snapshot when ionrift-cloud/middleware/src/packs.js changes.
+      - name: Run registry alignment gate
+        run: node scripts/validate-registry-alignment.mjs
 
   deploy:
     needs: validate
