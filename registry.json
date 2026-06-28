@@ -95,8 +95,9 @@
                                                        "tier":  "Free",
                                                        "sublayer":  "cooking",
                                                        "moduleId":  "ionrift-respite",
-                                                       "minModuleVersion":  "3.3.3",
+                                                       "minModuleVersion":  "3.3.4",
                                                        "packLabel":  "Core Cooking Pack",
+                                                       "preview":  true,
                                                        "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/respite-cooking-overlay/latest",
                                                        "description":  "Cooking profession plugin, terrain forage, hunt yields, and 17 campfire recipes. Does not include tailoring, brewing, or other craft professions."
                                                    },
