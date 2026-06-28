@@ -1,6 +1,6 @@
 {
     "schemaVersion":  3,
-    "lastUpdated":  "2026-06-28",
+    "lastUpdated":  "2026-06-29",
     "packs":  {
                   "respite-art-core":  {
                                            "latest":  "1.1.0",
@@ -31,7 +31,6 @@
                                                 "format":  "zip",
                                                 "moduleId":  "respite",
                                                 "tier":  "Free",
-                                                "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/respite-authoring-kit/latest",
                                                 "patreonUrl":  "https://www.patreon.com/posts/respite-kit-your-154855569",
                                                 "description":  "Schema reference, authoring guide, and example JSON packs for custom Respite rest events"
                                             },
@@ -77,7 +76,6 @@
                                                        "moduleId":  "ionrift-respite",
                                                        "minModuleVersion":  "3.0.0",
                                                        "packLabel":  "Wanderer\u0027s pack",
-                                                       "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/respite-wanderers-overlay/latest",
                                                        "description":  "33 camp events across core terrains for Ionrift Respite"
                                                    },
                      "respite-frost-stone-overlay":  {
@@ -98,7 +96,6 @@
                                                        "minModuleVersion":  "3.3.4",
                                                        "packLabel":  "Core Cooking Pack",
                                                        "preview":  true,
-                                                       "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/respite-cooking-overlay/latest",
                                                        "description":  "Cooking profession plugin, terrain forage, hunt yields, and 17 campfire recipes. Does not include tailoring, brewing, or other craft professions."
                                                    },
                      "respite-craft-professions-overlay":  {
