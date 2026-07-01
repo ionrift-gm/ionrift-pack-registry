@@ -1,6 +1,6 @@
 {
     "schemaVersion":  3,
-    "lastUpdated":  "2026-06-28",
+    "lastUpdated":  "2026-07-02",
     "packs":  {
                   "respite-art-core":  {
                                            "latest":  "1.1.0",
@@ -57,7 +57,16 @@
                                                 "releasedAt":  "2026-06-23T00:00:00Z",
                                                 "description":  "The Ionrift curse engine.",
                                                 "patreonUrl":  "https://www.patreon.com/collection/2221410?view=expanded"
-                                            }
+                                            },
+                    "ionrift-monstrous-feast":  {
+                                                    "latest":  "0.1.0",
+                                                    "preview":  true,
+                                                    "earlyAccess":  {
+                                                                        "version":  "0.1.0",
+                                                                        "tier":  "Acolyte"
+                                                                    },
+                                                    "description":  "Butcher and cook the monsters you kill. Harvest ingredients from slain creatures, cook at camp, and feed the party."
+                                                }
                 },
     "overlays":  {
                      "respite-core-overlay":  {
