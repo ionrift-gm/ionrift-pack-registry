@@ -125,7 +125,7 @@
                                                     "description":  "Combat, spell, and creature sound effects for D\u0026D 5e, Pathfinder 2e, and Daggerheart"
                                                 },
                      "quartermaster-core-overlay":  {
-                                                        "latest":  "0.2.8",
+                                                        "latest":  "0.3.0",
                                                         "tier":  "Free",
                                                         "sublayer":  "core",
                                                         "moduleId":  "ionrift-quartermaster",
@@ -133,7 +133,7 @@
                                                         "packLabel":  "Core pack",
                                                         "preview":  false,
                                                         "publicDownloadUrl":  "https://api.ionrift.cloud/packs/public/quartermaster-core-overlay/latest",
-                                                        "description":  "Treasure and trinkets for Quartermaster cache generation"
+                                                        "description":  "Gems, treasure, and trinkets for Quartermaster cache generation"
                                                     },
                      "quartermaster-frost-stone-overlay":  {
                                                         "latest":  "0.1.0",
