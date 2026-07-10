@@ -60,7 +60,6 @@
                                             },
                     "ionrift-monstrous-feast":  {
                                                     "latest":  "0.1.0",
-                                                    "preview":  true,
                                                     "earlyAccess":  {
                                                                         "version":  "0.1.0",
                                                                         "tier":  "Acolyte"
