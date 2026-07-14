@@ -106,6 +106,7 @@
             "moduleId": "ionrift-respite",
             "minModuleVersion": "3.0.0",
             "packLabel": "Frost & Stone pack",
+            "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-frost-stone-overlay/latest",
             "description": "Mountain and arctic terrains, terrain art, camp events, and disasters for Ionrift Respite",
             "cloudInstall": false
         },
@@ -179,6 +180,7 @@
             "minModuleVersion": "3.0.0",
             "packLabel": "Dust & Bone pack",
             "preview": false,
+            "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-bone-dust-overlay/latest",
             "description": "Catacombs and ruins terrains, terrain art, and 12 camp events for Ionrift Respite",
             "cloudInstall": false
         },
