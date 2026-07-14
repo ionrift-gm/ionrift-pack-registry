@@ -53,23 +53,22 @@
         },
         "ionrift-cursewright": {
             "distribution": "premium",
-            "latest": "1.1.5",
+            "latest": "1.1.7",
             "tier": "Acolyte",
             "releaseStatus": "ga",
-            "releasedAt": "2026-06-23T00:00:00Z",
+            "releasedAt": "2026-07-14T00:00:00Z",
+            "cloudInstall": false,
             "description": "The Ionrift curse engine.",
             "patreonUrl": "https://www.patreon.com/collection/2221410?view=expanded"
         },
         "ionrift-monstrous-feast": {
             "latest": "0.1.0",
-            "earlyAccess": {
-                "version": "0.1.0",
-                "tier": "Acolyte"
-            },
+            "cloudInstall": false,
             "description": "Butcher and cook the monsters you kill. Harvest ingredients from slain creatures, cook at camp, and feed the party."
         },
         "ionrift-cartographer": {
             "latest": "0.1.3",
+            "cloudInstall": false,
             "earlyAccess": {
                 "version": "0.1.3",
                 "tier": "Acolyte",
