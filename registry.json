@@ -111,7 +111,7 @@
             "cloudInstall": false
         },
         "respite-cooking-overlay": {
-            "latest": "1.0.9",
+            "latest": "1.0.10",
             "tier": "Free",
             "sublayer": "cooking",
             "moduleId": "ionrift-respite",
