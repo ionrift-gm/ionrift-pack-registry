@@ -9,6 +9,8 @@
             "tier": "Free",
             "patreonUrl": "https://www.patreon.com/posts/154985310",
             "description": "Terrain and station token art pack for Ionrift Respite",
+            "delivery": "manual",
+            "preparedMedia": true,
             "cloudInstall": false
         },
         "frost-stone-data": {
@@ -43,16 +45,19 @@
             "tier": "Free",
             "patreonUrl": "https://www.patreon.com/posts/155880618",
             "description": "Combat, spell, and creature sound effects for D&D 5e, Pathfinder 2e, and Daggerheart",
+            "delivery": "manual",
+            "preparedMedia": true,
             "cloudInstall": false
         }
     },
     "modules": {
         "ionrift-quartermaster": {
-            "latest": "1.5.0",
+            "latest": "1.9.1",
             "description": "The GM's loot engine. Terrain-aware cache generation, scroll management, and campaign item planning."
         },
         "ionrift-cursewright": {
             "distribution": "premium",
+            "cloudInstall": false,
             "latest": "1.1.7",
             "tier": "Acolyte",
             "releaseStatus": "ga",
@@ -61,8 +66,11 @@
             "patreonUrl": "https://www.patreon.com/collection/2221410?view=expanded"
         },
         "ionrift-monstrous-feast": {
+            "distribution": "premium",
+            "cloudInstall": false,
             "latest": "0.1.0",
             "tier": "Acolyte",
+            "patreonUrl": "https://www.patreon.com/ionrift",
             "description": "Butcher and cook the monsters you kill. Harvest ingredients from slain creatures, cook at camp, and feed the party."
         },
         "ionrift-cartographer": {
@@ -86,6 +94,8 @@
             "packLabel": "Core pack",
             "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-core-overlay/latest",
             "description": "Terrain art, station tokens, and camp phase images for Ionrift Respite",
+            "delivery": "manual",
+            "preparedMedia": true,
             "cloudInstall": false
         },
         "respite-wanderers-overlay": {
@@ -106,6 +116,8 @@
             "packLabel": "Frost & Stone pack",
             "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-frost-stone-overlay/latest",
             "description": "Mountain and arctic terrains, terrain art, camp events, and disasters for Ionrift Respite",
+            "delivery": "manual",
+            "preparedMedia": true,
             "cloudInstall": false
         },
         "respite-cooking-overlay": {
@@ -117,6 +129,20 @@
             "packLabel": "Core Cooking Pack",
             "preview": false,
             "description": "Cooking profession plugin, terrain forage, hunt yields, and 17 campfire recipes. Does not include tailoring, brewing, or other craft professions."
+        },
+        "respite-cooking-art-overlay": {
+            "latest": "1.0.0",
+            "tier": "Free",
+            "sublayer": "cooking-art",
+            "moduleId": "ionrift-respite",
+            "minModuleVersion": "3.3.10",
+            "packLabel": "Cooking item icons",
+            "companionFor": "respite-cooking-overlay",
+            "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-cooking-art-overlay/latest",
+            "description": "Optional cooking and forage item icons for the Core Cooking Pack.",
+            "delivery": "manual",
+            "preparedMedia": true,
+            "cloudInstall": false
         },
         "respite-craft-professions-overlay": {
             "latest": "0.1.0",
@@ -135,6 +161,8 @@
             "minModuleVersion": "2.7.7",
             "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/resonance-core-overlay/latest",
             "description": "Combat, spell, and creature sound effects for D&D 5e, Pathfinder 2e, and Daggerheart",
+            "delivery": "manual",
+            "preparedMedia": true,
             "cloudInstall": false
         },
         "quartermaster-core-overlay": {
@@ -180,6 +208,8 @@
             "preview": false,
             "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-bone-dust-overlay/latest",
             "description": "Catacombs and ruins terrains, terrain art, and 12 camp events for Ionrift Respite",
+            "delivery": "manual",
+            "preparedMedia": true,
             "cloudInstall": false
         },
         "cursewright-core-overlay": {
