@@ -30,6 +30,10 @@
     "1.0.0"
   ],
   "respite-frost-stone-overlay": [
+    "1.0.0",
+    "1.1.0"
+  ],
+  "respite-frost-stone-art-overlay": [
     "1.0.0"
   ],
   "respite-cooking-overlay": [
@@ -50,13 +54,26 @@
   "quartermaster-core-overlay": [
     "0.3.1"
   ],
+  "quartermaster-core-art-overlay": [
+    "1.0.0"
+  ],
   "quartermaster-bone-dust-overlay": [
     "0.1.4"
+  ],
+  "quartermaster-bone-dust-art-overlay": [
+    "1.0.0"
   ],
   "quartermaster-frost-stone-overlay": [
     "0.1.1"
   ],
+  "quartermaster-frost-stone-art-overlay": [
+    "1.0.0"
+  ],
   "respite-bone-dust-overlay": [
+    "1.0.0",
+    "1.1.0"
+  ],
+  "respite-bone-dust-art-overlay": [
     "1.0.0"
   ],
   "cursewright-core-overlay": [

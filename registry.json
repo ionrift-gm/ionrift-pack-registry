@@ -117,14 +117,27 @@
             "cloudInstall": false
         },
         "respite-frost-stone-overlay": {
-            "latest": "1.0.0",
+            "latest": "1.1.0",
             "tier": "Free",
             "sublayer": "frost-stone",
             "moduleId": "ionrift-respite",
             "minModuleVersion": "3.0.0",
             "packLabel": "Frost & Stone pack",
             "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-frost-stone-overlay/latest",
-            "description": "Mountain and arctic terrains, terrain art, camp events, and disasters for Ionrift Respite",
+            "description": "Mountain and arctic terrains, camp events, and disasters for Ionrift Respite",
+            "delivery": "manual",
+            "cloudInstall": false
+        },
+        "respite-frost-stone-art-overlay": {
+            "latest": "1.0.0",
+            "tier": "Free",
+            "sublayer": "frost-stone-art",
+            "moduleId": "ionrift-respite",
+            "minModuleVersion": "3.0.0",
+            "packLabel": "Frost & Stone terrain art",
+            "companionFor": "respite-frost-stone-overlay",
+            "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-frost-stone-art-overlay/latest",
+            "description": "Optional mountain and arctic terrain art for the Frost & Stone pack.",
             "delivery": "manual",
             "preparedMedia": true,
             "cloudInstall": false
@@ -193,6 +206,20 @@
             "delivery": "manual",
             "cloudInstall": false
         },
+        "quartermaster-core-art-overlay": {
+            "latest": "1.0.0",
+            "tier": "Free",
+            "sublayer": "core-art",
+            "moduleId": "ionrift-quartermaster",
+            "minModuleVersion": "1.5.0",
+            "packLabel": "Core pack art",
+            "companionFor": "quartermaster-core-overlay",
+            "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/quartermaster-core-art-overlay/latest",
+            "description": "Optional generative item icons for the Quartermaster Core pack.",
+            "delivery": "manual",
+            "preparedMedia": true,
+            "cloudInstall": false
+        },
         "quartermaster-frost-stone-overlay": {
             "latest": "0.1.1",
             "tier": "Free",
@@ -204,6 +231,21 @@
             "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/quartermaster-frost-stone-overlay/latest",
             "description": "Arctic and mountain containers for Quartermaster cache generation",
             "delivery": "manual",
+            "cloudInstall": false
+        },
+        "quartermaster-frost-stone-art-overlay": {
+            "latest": "1.0.0",
+            "tier": "Free",
+            "sublayer": "frost-stone-art",
+            "moduleId": "ionrift-quartermaster",
+            "minModuleVersion": "1.3.8",
+            "packLabel": "Frost & Stone pack art",
+            "companionFor": "quartermaster-frost-stone-overlay",
+            "preview": true,
+            "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/quartermaster-frost-stone-art-overlay/latest",
+            "description": "Optional generative container icons for the Quartermaster Frost & Stone pack.",
+            "delivery": "manual",
+            "preparedMedia": true,
             "cloudInstall": false
         },
         "quartermaster-bone-dust-overlay": {
@@ -220,8 +262,23 @@
             "delivery": "manual",
             "cloudInstall": false
         },
-        "respite-bone-dust-overlay": {
+        "quartermaster-bone-dust-art-overlay": {
             "latest": "1.0.0",
+            "tier": "Free",
+            "widensAt": "2026-06-19",
+            "sublayer": "bone-dust-art",
+            "moduleId": "ionrift-quartermaster",
+            "minModuleVersion": "1.5.0",
+            "packLabel": "Bone & Dust pack art",
+            "companionFor": "quartermaster-bone-dust-overlay",
+            "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/quartermaster-bone-dust-art-overlay/latest",
+            "description": "Optional generative item icons for the Quartermaster Bone & Dust pack.",
+            "delivery": "manual",
+            "preparedMedia": true,
+            "cloudInstall": false
+        },
+        "respite-bone-dust-overlay": {
+            "latest": "1.1.0",
             "tier": "Free",
             "widensAt": "2026-06-09",
             "sublayer": "bone-dust",
@@ -230,7 +287,21 @@
             "packLabel": "Dust & Bone pack",
             "preview": false,
             "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-bone-dust-overlay/latest",
-            "description": "Catacombs and ruins terrains, terrain art, and 12 camp events for Ionrift Respite",
+            "description": "Catacombs and ruins terrains and 12 camp events for Ionrift Respite",
+            "delivery": "manual",
+            "cloudInstall": false
+        },
+        "respite-bone-dust-art-overlay": {
+            "latest": "1.0.0",
+            "tier": "Free",
+            "widensAt": "2026-06-09",
+            "sublayer": "bone-dust-art",
+            "moduleId": "ionrift-respite",
+            "minModuleVersion": "3.0.0",
+            "packLabel": "Dust & Bone terrain art",
+            "companionFor": "respite-bone-dust-overlay",
+            "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-bone-dust-art-overlay/latest",
+            "description": "Optional catacombs and ruins terrain art for the Dust & Bone pack.",
             "delivery": "manual",
             "preparedMedia": true,
             "cloudInstall": false
