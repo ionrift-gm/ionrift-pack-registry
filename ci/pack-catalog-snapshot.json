@@ -1,90 +1,88 @@
 {
-  "respite-art-core": [
-    "1.1.0"
-  ],
-  "frost-stone-data": [
-    "1.1.1"
-  ],
-  "wanderers-data": [
-    "1.0.0"
-  ],
-  "respite-authoring-kit": [
-    "1.0.1"
+  "cursewright-core-overlay": [
+    "0.1.0"
   ],
   "e2e-test-pack": [
     "1.0.0"
   ],
+  "frost-stone-data": [
+    "1.1.1"
+  ],
   "ionrift-cursewright": [
-    "1.1.7"
+    "1.1.8"
   ],
   "ionrift-monstrous-feast": [
-    "0.1.0"
+    "0.1.0",
+    "1.0.0"
   ],
   "ionrift-soundpack-core": [
     "1.1.0"
   ],
-  "respite-core-overlay": [
-    "0.2.3",
-    "1.0.0"
-  ],
-  "respite-core-art-overlay": [
-    "1.0.0"
-  ],
-  "respite-wanderers-overlay": [
-    "1.0.0"
-  ],
-  "respite-frost-stone-overlay": [
-    "1.0.0",
-    "1.1.0"
-  ],
-  "respite-frost-stone-art-overlay": [
-    "1.0.0"
-  ],
-  "respite-cooking-overlay": [
-    "1.0.10"
-  ],
-  "respite-cooking-art-overlay": [
-    "1.0.0"
-  ],
-  "respite-tailoring-overlay": [
-    "0.1.0"
-  ],
-  "respite-craft-professions-overlay": [
-    "0.1.0",
-    "0.2.0"
-  ],
-  "respite-craft-professions-art-overlay": [
-    "0.1.0"
-  ],
-  "resonance-core-overlay": [
-    "0.1.0"
-  ],
-  "quartermaster-core-overlay": [
-    "0.3.1"
-  ],
-  "quartermaster-core-art-overlay": [
+  "quartermaster-bone-dust-art-overlay": [
     "1.0.0"
   ],
   "quartermaster-bone-dust-overlay": [
     "0.1.4"
   ],
-  "quartermaster-bone-dust-art-overlay": [
+  "quartermaster-core-art-overlay": [
+    "1.0.0"
+  ],
+  "quartermaster-core-overlay": [
+    "0.3.1"
+  ],
+  "quartermaster-frost-stone-art-overlay": [
     "1.0.0"
   ],
   "quartermaster-frost-stone-overlay": [
     "0.1.1"
   ],
-  "quartermaster-frost-stone-art-overlay": [
+  "resonance-core-overlay": [
+    "0.1.0"
+  ],
+  "respite-art-core": [
+    "1.1.0"
+  ],
+  "respite-authoring-kit": [
+    "1.0.1"
+  ],
+  "respite-bone-dust-art-overlay": [
     "1.0.0"
   ],
   "respite-bone-dust-overlay": [
     "1.0.0",
     "1.1.0"
   ],
-  "respite-bone-dust-art-overlay": [
+  "respite-cooking-art-overlay": [
     "1.0.0"
   ],
-  "cursewright-core-overlay": [
+  "respite-cooking-overlay": [
+    "1.0.10"
+  ],
+  "respite-core-art-overlay": [
+    "1.0.0"
+  ],
+  "respite-core-overlay": [
+    "0.2.3",
+    "1.0.0"
+  ],
+  "respite-craft-professions-art-overlay": [
     "0.1.0"
+  ],
+  "respite-craft-professions-overlay": [
+    "0.1.0",
+    "0.2.0"
+  ],
+  "respite-frost-stone-art-overlay": [
+    "1.0.0"
+  ],
+  "respite-frost-stone-overlay": [
+    "1.0.0",
+    "1.1.0"
+  ],
+  "respite-wanderers-overlay": [
+    "1.0.0"
+  ],
+  "wanderers-data": [
+    "1.0.0"
   ]
 }

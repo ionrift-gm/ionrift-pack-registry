@@ -1,10 +1,17 @@
 #!/usr/bin/env node
 /**
  * Structural registry alignment check for CI.
- * Compares registry.json `latest` values against ci/pack-catalog-snapshot.json,
- * which mirrors prod PACK_CATALOG version keys from ionrift-cloud/middleware/src/packs.js.
  *
- * Update the snapshot when middleware catalog changes (same commit window as registry).
+ * Compares registry.json `latest` values against ci/pack-catalog-snapshot.json.
+ *
+ * Product sources of truth:
+ *   - ionrift-cloud middleware PACK_CATALOG (packs.js) for downloadable versions
+ *   - registry.json for labels, public URLs, Patreon handoffs, latest pointers
+ *
+ * pack-catalog-snapshot.json is only a gate mirror of PACK_CATALOG version keys
+ * so this repo can validate without checking out ionrift-cloud. Regenerate it
+ * from packs.js (see ionrift-pack-workshop scripts/ci/sync-catalog-snapshot.mjs)
+ * whenever the catalog changes; do not hand-edit as product data.
  */
 
 import { readFileSync } from "fs";
