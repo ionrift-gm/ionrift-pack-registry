@@ -1,6 +1,6 @@
 {
     "schemaVersion": 3,
-    "lastUpdated": "2026-08-01",
+    "lastUpdated": "2026-08-09",
     "packs": {
         "respite-art-core": {
             "latest": "1.1.0",
@@ -58,25 +58,26 @@
     },
     "modules": {
         "ionrift-quartermaster": {
-            "latest": "1.9.3",
+            "latest": "1.9.5",
             "description": "The GM's loot engine. Terrain-aware cache generation, scroll management, and campaign item planning."
         },
         "ionrift-cursewright": {
             "distribution": "premium",
             "cloudInstall": false,
-            "latest": "1.1.7",
+            "latest": "1.1.8",
             "tier": "Acolyte",
             "releaseStatus": "ga",
-            "releasedAt": "2026-07-14T00:00:00Z",
+            "releasedAt": "2026-08-10T00:00:00Z",
             "description": "The Ionrift curse engine.",
             "patreonUrl": "https://www.patreon.com/collection/2221410?view=expanded"
         },
         "ionrift-monstrous-feast": {
-            "distribution": "premium",
+            "latest": "1.0.0",
             "cloudInstall": false,
-            "latest": "0.1.0",
-            "tier": "Acolyte",
-            "patreonUrl": "https://www.patreon.com/ionrift",
+            "tier": "Free",
+            "releaseStatus": "ga",
+            "githubUrl": "https://github.com/ionrift-gm/ionrift-monstrous-feast",
+            "manifest": "https://github.com/ionrift-gm/ionrift-monstrous-feast/releases/latest/download/module.json",
             "description": "Butcher and cook the monsters you kill. Harvest ingredients from slain creatures, cook at camp, and feed the party."
         },
         "ionrift-cartographer": {
