@@ -106,7 +106,7 @@
             "cloudInstall": false
         },
         "respite-core-art-overlay": {
-            "latest": "0.3.0",
+            "latest": "1.0.0",
             "tier": "Free",
             "sublayer": "core-art",
             "moduleId": "ionrift-respite",
