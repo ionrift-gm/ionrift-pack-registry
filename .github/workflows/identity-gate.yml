@@ -1,8 +1,8 @@
-name: CI — Commit Identity Gate
+﻿name: CI - Commit Identity Gate
 
 on:
   push:
-    branches: [main, master]
+    branches: [main]
     tags-ignore: ['**']
 
 jobs:
