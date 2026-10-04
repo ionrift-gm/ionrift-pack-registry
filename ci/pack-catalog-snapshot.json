@@ -15,8 +15,11 @@
     "0.1.0",
     "1.0.0"
   ],
+  "ionrift-quiz-night": [
+    "0.1.0-ea.1"
+  ],
   "ionrift-soundpack-core": [
-    "1.1.0"
+    "1.2.0"
   ],
   "quartermaster-bone-dust-art-overlay": [
     "1.0.0"
@@ -37,7 +40,7 @@
     "0.1.1"
   ],
   "resonance-core-overlay": [
-    "0.1.0"
+    "1.2.0"
   ],
   "respite-art-core": [
     "1.1.0"
