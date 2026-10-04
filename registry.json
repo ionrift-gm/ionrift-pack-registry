@@ -106,7 +106,7 @@
             "cloudInstall": false
         },
         "respite-core-art-overlay": {
-            "latest": "1.0.0",
+            "latest": "1.1.0",
             "tier": "Free",
             "sublayer": "core-art",
             "moduleId": "ionrift-respite",
@@ -114,7 +114,7 @@
             "packLabel": "Core pack art",
             "companionFor": "respite-core-overlay",
             "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-core-art-overlay/latest",
-            "description": "Optional terrain banners, station tokens, and camp phase images for Ionrift Respite",
+            "description": "Optional terrain banners, station tokens, camp phase images, and cooking, forage and brewing icons for Ionrift Respite",
             "delivery": "manual",
             "preparedMedia": true,
             "cloudInstall": false
@@ -143,20 +143,6 @@
             "delivery": "manual",
             "cloudInstall": false
         },
-        "respite-frost-stone-art-overlay": {
-            "latest": "1.0.0",
-            "tier": "Free",
-            "sublayer": "frost-stone-art",
-            "moduleId": "ionrift-respite",
-            "minModuleVersion": "3.0.0",
-            "packLabel": "Frost & Stone terrain art",
-            "companionFor": "respite-frost-stone-overlay",
-            "patreonUrl": "https://www.patreon.com/collection/2079931",
-            "description": "Optional mountain and arctic terrain art for the Frost & Stone pack.",
-            "delivery": "manual",
-            "preparedMedia": true,
-            "cloudInstall": false
-        },
         "respite-cooking-overlay": {
             "latest": "1.0.10",
             "tier": "Free",
@@ -170,20 +156,6 @@
             "delivery": "manual",
             "cloudInstall": false
         },
-        "respite-cooking-art-overlay": {
-            "latest": "1.0.0",
-            "tier": "Free",
-            "sublayer": "cooking-art",
-            "moduleId": "ionrift-respite",
-            "minModuleVersion": "3.3.10",
-            "packLabel": "Cooking item icons",
-            "companionFor": "respite-cooking-overlay",
-            "patreonUrl": "https://www.patreon.com/collection/2079931",
-            "description": "Optional cooking and forage item icons for the Core Cooking Pack.",
-            "delivery": "manual",
-            "preparedMedia": true,
-            "cloudInstall": false
-        },
         "respite-craft-professions-overlay": {
             "latest": "0.2.0",
             "tier": "Initiate",
@@ -194,21 +166,6 @@
             "preview": false,
             "description": "Brewing craft profession recipes: camp steeps and ferments that reuse Core Cooking Pack forage. Requires Core Cooking Pack for shared reagents.",
             "delivery": "manual",
-            "cloudInstall": false,
-            "patreonUrl": "https://www.patreon.com/collection/2079931"
-        },
-        "respite-craft-professions-art-overlay": {
-            "latest": "0.1.0",
-            "tier": "Initiate",
-            "sublayer": "craft-professions-art",
-            "moduleId": "ionrift-respite",
-            "minModuleVersion": "3.3.13",
-            "packLabel": "Craft Professions item icons",
-            "companionFor": "respite-craft-professions-overlay",
-            "preview": false,
-            "description": "Optional generative icons for Craft Professions Pack brewing drinks.",
-            "delivery": "manual",
-            "preparedMedia": true,
             "cloudInstall": false,
             "patreonUrl": "https://www.patreon.com/collection/2079931"
         },
@@ -238,7 +195,7 @@
             "cloudInstall": false
         },
         "quartermaster-core-art-overlay": {
-            "latest": "1.0.0",
+            "latest": "1.1.0",
             "tier": "Free",
             "sublayer": "core-art",
             "moduleId": "ionrift-quartermaster",
@@ -246,7 +203,7 @@
             "packLabel": "Core pack art",
             "companionFor": "quartermaster-core-overlay",
             "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/quartermaster-core-art-overlay/latest",
-            "description": "Optional generative item icons for the Quartermaster Core pack.",
+            "description": "Optional item icons for Quartermaster Core, Frost & Stone, and Bone & Dust items",
             "delivery": "manual",
             "preparedMedia": true,
             "cloudInstall": false
@@ -264,21 +221,6 @@
             "delivery": "manual",
             "cloudInstall": false
         },
-        "quartermaster-frost-stone-art-overlay": {
-            "latest": "1.0.0",
-            "tier": "Free",
-            "sublayer": "frost-stone-art",
-            "moduleId": "ionrift-quartermaster",
-            "minModuleVersion": "1.3.8",
-            "packLabel": "Frost & Stone pack art",
-            "companionFor": "quartermaster-frost-stone-overlay",
-            "preview": true,
-            "patreonUrl": "https://www.patreon.com/collection/2079931",
-            "description": "Optional generative container icons for the Quartermaster Frost & Stone pack.",
-            "delivery": "manual",
-            "preparedMedia": true,
-            "cloudInstall": false
-        },
         "quartermaster-bone-dust-overlay": {
             "latest": "0.1.4",
             "tier": "Initiate",
@@ -292,20 +234,6 @@
             "delivery": "manual",
             "cloudInstall": false
         },
-        "quartermaster-bone-dust-art-overlay": {
-            "latest": "1.0.0",
-            "tier": "Initiate",
-            "sublayer": "bone-dust-art",
-            "moduleId": "ionrift-quartermaster",
-            "minModuleVersion": "1.5.0",
-            "packLabel": "Bone & Dust pack art",
-            "companionFor": "quartermaster-bone-dust-overlay",
-            "patreonUrl": "https://www.patreon.com/collection/2079931",
-            "description": "Optional generative item icons for the Quartermaster Bone & Dust pack.",
-            "delivery": "manual",
-            "preparedMedia": true,
-            "cloudInstall": false
-        },
         "respite-bone-dust-overlay": {
             "latest": "1.1.0",
             "tier": "Initiate",
@@ -317,20 +245,6 @@
             "patreonUrl": "https://www.patreon.com/collection/2079931",
             "description": "Catacombs and ruins terrains and 12 camp events for Ionrift Respite",
             "delivery": "manual",
-            "cloudInstall": false
-        },
-        "respite-bone-dust-art-overlay": {
-            "latest": "1.0.0",
-            "tier": "Initiate",
-            "sublayer": "bone-dust-art",
-            "moduleId": "ionrift-respite",
-            "minModuleVersion": "3.0.0",
-            "packLabel": "Dust & Bone terrain art",
-            "companionFor": "respite-bone-dust-overlay",
-            "patreonUrl": "https://www.patreon.com/collection/2079931",
-            "description": "Optional catacombs and ruins terrain art for the Dust & Bone pack.",
-            "delivery": "manual",
-            "preparedMedia": true,
             "cloudInstall": false
         },
         "cursewright-core-overlay": {
