@@ -1,6 +1,6 @@
 {
     "schemaVersion": 3,
-    "lastUpdated": "2026-10-04",
+    "lastUpdated": "2026-10-07",
     "packs": {
         "respite-art-core": {
             "latest": "1.1.0",
@@ -93,26 +93,13 @@
         }
     },
     "overlays": {
-        "respite-core-overlay": {
-            "latest": "1.0.0",
-            "tier": "Free",
-            "sublayer": "core",
-            "moduleId": "ionrift-respite",
-            "minModuleVersion": "3.0.0",
-            "packLabel": "Core pack",
-            "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-core-overlay/latest",
-            "description": "Base night events and camp disasters for Ionrift Respite",
-            "delivery": "manual",
-            "cloudInstall": false
-        },
         "respite-core-art-overlay": {
-            "latest": "1.1.0",
+            "latest": "1.1.1",
             "tier": "Free",
             "sublayer": "core-art",
             "moduleId": "ionrift-respite",
             "minModuleVersion": "3.0.0",
             "packLabel": "Core pack art",
-            "companionFor": "respite-core-overlay",
             "publicDownloadUrl": "https://api.ionrift.cloud/packs/public/respite-core-art-overlay/latest",
             "description": "Optional terrain banners, station tokens, camp phase images, and cooking, forage and brewing icons for Ionrift Respite",
             "delivery": "manual",
@@ -120,14 +107,14 @@
             "cloudInstall": false
         },
         "respite-wanderers-overlay": {
-            "latest": "1.0.0",
+            "latest": "1.1.0",
             "tier": "Free",
             "sublayer": "wanderers",
             "moduleId": "ionrift-respite",
             "minModuleVersion": "3.0.0",
             "packLabel": "Wanderer's pack",
             "patreonUrl": "https://www.patreon.com/collection/2079931",
-            "description": "33 camp events across core terrains for Ionrift Respite",
+            "description": "50 camp events across core terrains for Ionrift Respite",
             "delivery": "manual",
             "cloudInstall": false
         },

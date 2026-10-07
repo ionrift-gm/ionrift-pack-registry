@@ -52,11 +52,8 @@
   ],
   "respite-core-art-overlay": [
     "1.0.0",
-    "1.1.0"
-  ],
-  "respite-core-overlay": [
-    "0.2.3",
-    "1.0.0"
+    "1.1.0",
+    "1.1.1"
   ],
   "respite-craft-professions-overlay": [
     "0.1.0",
@@ -67,7 +64,8 @@
     "1.1.0"
   ],
   "respite-wanderers-overlay": [
-    "1.0.0"
+    "1.0.0",
+    "1.1.0"
   ],
   "wanderers-data": [
     "1.0.0"
