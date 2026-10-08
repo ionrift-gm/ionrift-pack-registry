@@ -1,6 +1,6 @@
 {
     "schemaVersion": 3,
-    "lastUpdated": "2026-10-07",
+    "lastUpdated": "2026-10-08",
     "packs": {
         "respite-art-core": {
             "latest": "1.1.0",
@@ -90,6 +90,16 @@
                 "patreonUrl": "https://www.patreon.com/ionrift"
             },
             "description": "Import signed-off Cartographer layer stacks into Foundry. Generation stays on cartographer.ionrift.cloud."
+        },
+        "ionrift-voice": {
+            "latest": "0.2.0-ea.1",
+            "cloudInstall": false,
+            "earlyAccess": {
+                "version": "0.2.0-ea.1",
+                "tier": "Acolyte",
+                "patreonUrl": "https://www.patreon.com/c/Ionrift"
+            },
+            "description": "Proximity voice chat with subterranean acoustics, physical wall occlusion, arcane telepathy bridges, and GM omnipresence."
         }
     },
     "overlays": {
