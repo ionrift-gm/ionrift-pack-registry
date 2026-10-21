@@ -220,7 +220,7 @@
         },
         "quartermaster-bone-dust-overlay": {
             "latest": "0.1.4",
-            "tier": "Initiate",
+            "tier": "Free",
             "sublayer": "bone-dust",
             "moduleId": "ionrift-quartermaster",
             "minModuleVersion": "1.5.0",
@@ -233,11 +233,11 @@
         },
         "respite-bone-dust-overlay": {
             "latest": "1.1.0",
-            "tier": "Initiate",
+            "tier": "Free",
             "sublayer": "bone-dust",
             "moduleId": "ionrift-respite",
             "minModuleVersion": "3.0.0",
-            "packLabel": "Dust & Bone pack",
+            "packLabel": "Bone & Dust pack",
             "preview": false,
             "patreonUrl": "https://www.patreon.com/collection/2079931",
             "description": "Catacombs and ruins terrains and 12 camp events for Ionrift Respite",
