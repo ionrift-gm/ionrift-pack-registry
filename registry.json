@@ -1,6 +1,6 @@
 {
     "schemaVersion": 3,
-    "lastUpdated": "2026-10-08",
+    "lastUpdated": "2026-10-22",
     "packs": {
         "respite-art-core": {
             "latest": "1.1.0",
@@ -34,7 +34,7 @@
             "cloudInstall": false
         },
         "respite-authoring-kit": {
-            "latest": "1.0.1",
+            "latest": "1.1.0",
             "format": "zip",
             "moduleId": "respite",
             "tier": "Free",
