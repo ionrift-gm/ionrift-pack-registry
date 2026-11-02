@@ -1,6 +1,6 @@
 {
     "schemaVersion": 3,
-    "lastUpdated": "2026-10-29",
+    "lastUpdated": "2026-11-02",
     "packs": {
         "respite-art-core": {
             "latest": "1.1.0",
@@ -93,11 +93,11 @@
             "description": "Import signed-off Cartographer layer stacks into Foundry. Generation stays on cartographer.ionrift.cloud."
         },
         "ionrift-voice": {
-            "latest": "0.2.0-ea.5",
-            "releasedAt": "2026-10-24T00:00:00Z",
+            "latest": "0.2.0-ea.8",
+            "releasedAt": "2026-11-01T20:56:25Z",
             "cloudInstall": false,
             "earlyAccess": {
-                "version": "0.2.0-ea.5",
+                "version": "0.2.0-ea.8",
                 "tier": "Acolyte",
                 "patreonUrl": "https://www.patreon.com/c/Ionrift"
             },
