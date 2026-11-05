@@ -93,11 +93,11 @@
             "description": "Import signed-off Cartographer layer stacks into Foundry. Generation stays on cartographer.ionrift.cloud."
         },
         "ionrift-voice": {
-            "latest": "0.2.0-ea.8",
-            "releasedAt": "2026-11-01T20:56:25Z",
+            "latest": "0.2.0-ea.9",
+            "releasedAt": "2026-11-05T20:35:00Z",
             "cloudInstall": false,
             "earlyAccess": {
-                "version": "0.2.0-ea.8",
+                "version": "0.2.0-ea.9",
                 "tier": "Acolyte",
                 "patreonUrl": "https://www.patreon.com/c/Ionrift"
             },
