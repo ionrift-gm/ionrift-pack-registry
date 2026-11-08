@@ -9,11 +9,12 @@
     "1.1.1"
   ],
   "ionrift-bloodshed": [
-    "0.2.0-ea.2"
+    "0.2.0-ea.3"
   ],
   "ionrift-companion": [
     "0.1.0",
-    "0.1.1"
+    "0.1.1",
+    "0.1.2"
   ],
   "ionrift-cursewright": [
     "1.3.1"
@@ -51,7 +52,6 @@
     "1.1.0"
   ],
   "respite-authoring-kit": [
-    "1.0.1",
     "1.1.0"
   ],
   "respite-bone-dust-overlay": [

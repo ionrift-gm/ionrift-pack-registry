@@ -1,6 +1,7 @@
 {
     "schemaVersion": 3,
     "lastUpdated": "2026-11-08",
+    "notices": [],
     "packs": {
         "respite-art-core": {
             "latest": "1.1.0",
@@ -34,7 +35,7 @@
             "cloudInstall": false
         },
         "respite-authoring-kit": {
-            "latest": "1.0.1",
+            "latest": "1.1.0",
             "format": "zip",
             "moduleId": "respite",
             "tier": "Free",
@@ -98,20 +99,28 @@
             "latest": "1.0.0",
             "tier": "Acolyte",
             "releaseStatus": "ga",
-            "releasedAt": "2026-11-08T16:00:00Z",
+            "releasedAt": "2026-11-08T20:36:06Z",
             "description": "Proximity voice chat with subterranean acoustics, physical wall occlusion, arcane telepathy bridges, and GM omnipresence.",
             "patreonUrl": "https://www.patreon.com/c/Ionrift"
         },
         "ionrift-bloodshed": {
-            "latest": "0.2.0-ea.2",
-            "releasedAt": "2026-11-05T14:47:11Z",
+            "latest": "0.2.0-ea.3",
+            "releasedAt": "2026-11-08T16:01:05Z",
             "cloudInstall": false,
             "earlyAccess": {
-                "version": "0.2.0-ea.2",
+                "version": "0.2.0-ea.3",
                 "tier": "Acolyte",
                 "patreonUrl": "https://www.patreon.com/c/Ionrift"
             },
             "description": "Directional blood and fluid splatter for Foundry VTT. Ballistic droplet bursts and persistent floor decals reactive to attack angles, damage types, and creature biology. System-agnostic."
+        },
+        "ionrift-companion": {
+            "latest": "0.1.2",
+            "releasedAt": "2026-11-08T18:58:49Z",
+            "cloudInstall": false,
+            "tier": "Free",
+            "releaseStatus": "ga",
+            "description": "Supporter companion for Ionrift modules on Foundry VTT."
         }
     },
     "overlays": {
