@@ -34,7 +34,7 @@
             "cloudInstall": false
         },
         "respite-authoring-kit": {
-            "latest": "1.0.1",
+            "latest": "1.1.0",
             "format": "zip",
             "moduleId": "respite",
             "tier": "Free",
