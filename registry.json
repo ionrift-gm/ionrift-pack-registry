@@ -1,6 +1,7 @@
 {
     "schemaVersion": 3,
     "lastUpdated": "2026-11-08",
+    "notices": [],
     "packs": {
         "respite-art-core": {
             "latest": "1.1.0",
@@ -113,6 +114,14 @@
                 "patreonUrl": "https://www.patreon.com/c/Ionrift"
             },
             "description": "Directional blood and fluid splatter for Foundry VTT. Ballistic droplet bursts and persistent floor decals reactive to attack angles, damage types, and creature biology. System-agnostic."
+        },
+        "ionrift-companion": {
+            "latest": "0.1.2",
+            "releasedAt": "2026-11-08T18:58:49Z",
+            "cloudInstall": false,
+            "tier": "Free",
+            "releaseStatus": "ga",
+            "description": "Supporter companion for Ionrift modules on Foundry VTT."
         }
     },
     "overlays": {
