@@ -1,6 +1,6 @@
 {
     "schemaVersion": 3,
-    "lastUpdated": "2026-11-08",
+    "lastUpdated": "2026-11-16",
     "notices": [],
     "packs": {
         "respite-art-core": {
@@ -96,10 +96,10 @@
         "ionrift-voice": {
             "distribution": "premium",
             "cloudInstall": false,
-            "latest": "1.0.0",
+            "latest": "1.0.1",
             "tier": "Acolyte",
             "releaseStatus": "ga",
-            "releasedAt": "2026-11-08T20:36:06Z",
+            "releasedAt": "2026-11-16T11:52:38Z",
             "description": "Proximity voice chat with subterranean acoustics, physical wall occlusion, arcane telepathy bridges, and GM omnipresence.",
             "patreonUrl": "https://www.patreon.com/c/Ionrift"
         },
